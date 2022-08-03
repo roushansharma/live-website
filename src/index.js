@@ -23,7 +23,7 @@ root.render(
     <ProjectTimer />
     <Contact />
     <Footer />
-
+ 
     
   </React.StrictMode> 
 );

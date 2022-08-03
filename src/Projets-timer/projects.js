@@ -89,7 +89,7 @@ function ProjectTimer(){
                             <p>
                                 Ut enim ad minim veniam, quis nostrud exercitation utur adipisicing elit, sed do eiusmod einisha chor amay vebona sukher mohona kobita tumi sopono carini hoye.
                             </p>
-                        </div>
+                        </div> 
 
                         <div className="innerPas">
                             <h4>Core Value of Development</h4>

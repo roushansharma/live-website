@@ -18,7 +18,7 @@ function Contact(){
                             </span>
                         </h2>
                     </Col>
-                </Row>
+                </Row> 
                 <Row className="align-items-center">
                     <Col md={5} className="pr-md-5">
                         <div className="border-bottom mb-3 mb-md-4 pb-3 pb-md-4">
